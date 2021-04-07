@@ -1,0 +1,138 @@
+2021-04-06T12:09:08,447+0000 [20420 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\logs\newrelic_agent.log
+2021-04-06T12:09:08,447+0000 [20420 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_281
+2021-04-06T12:09:08,447+0000 [20420 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.281-b09
+2021-04-06T12:09:08,447+0000 [20420 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-04-06T12:09:08,447+0000 [20420 1] com.newrelic INFO: Agent Host: DESKTOP-LA5TLC0 IP: 172.26.16.1
+2021-04-06T12:09:08,447+0000 [20420 1] com.newrelic INFO: New Relic Agent v6.4.2 is initializing...
+2021-04-06T12:09:09,467+0000 [20420 8] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-04-06T12:09:17,804+0000 [20420 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-04-06T12:09:20,823+0000 [20420 1] com.newrelic INFO: Setting audit_mode to false
+2021-04-06T12:09:21,178+0000 [20420 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\.\newrelic.yml
+2021-04-06T12:09:21,194+0000 [20420 1] com.newrelic INFO: New Relic Agent v6.4.2 has started
+2021-04-06T12:09:21,194+0000 [20420 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@27fa135a
+2021-04-06T12:09:21,194+0000 [20420 1] com.newrelic INFO: Premain startup complete in 14,343ms
+2021-04-06T12:09:21,334+0000 [20420 7] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-04-06T12:09:21,397+0000 [20420 7] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-04-06T12:10:03,379+0000 [17524 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\logs\newrelic_agent.log
+2021-04-06T12:10:03,379+0000 [17524 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_281
+2021-04-06T12:10:03,379+0000 [17524 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.281-b09
+2021-04-06T12:10:03,379+0000 [17524 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-04-06T12:10:03,379+0000 [17524 1] com.newrelic INFO: Agent Host: DESKTOP-LA5TLC0 IP: 172.26.16.1
+2021-04-06T12:10:03,379+0000 [17524 1] com.newrelic INFO: New Relic Agent v6.4.2 is initializing...
+2021-04-06T12:10:04,178+0000 [17524 8] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-04-06T12:10:12,020+0000 [17524 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-04-06T12:10:14,467+0000 [17524 1] com.newrelic INFO: Setting audit_mode to false
+2021-04-06T12:10:14,831+0000 [17524 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\.\newrelic.yml
+2021-04-06T12:10:14,862+0000 [17524 1] com.newrelic INFO: New Relic Agent v6.4.2 has started
+2021-04-06T12:10:14,862+0000 [17524 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@27fa135a
+2021-04-06T12:10:14,862+0000 [17524 1] com.newrelic INFO: Premain startup complete in 12,583ms
+2021-04-06T12:10:14,971+0000 [17524 7] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-04-06T12:10:15,018+0000 [17524 7] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-04-06T12:10:35,735+0000 [19796 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\logs\newrelic_agent.log
+2021-04-06T12:10:35,735+0000 [19796 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_281
+2021-04-06T12:10:35,735+0000 [19796 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.281-b09
+2021-04-06T12:10:35,735+0000 [19796 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-04-06T12:10:35,735+0000 [19796 1] com.newrelic INFO: Agent Host: DESKTOP-LA5TLC0 IP: 172.26.16.1
+2021-04-06T12:10:35,735+0000 [19796 1] com.newrelic INFO: New Relic Agent v6.4.2 is initializing...
+2021-04-06T12:10:36,535+0000 [19796 8] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-04-06T12:10:44,311+0000 [19796 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-04-06T12:10:46,702+0000 [19796 1] com.newrelic INFO: Setting audit_mode to false
+2021-04-06T12:10:47,091+0000 [19796 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\.\newrelic.yml
+2021-04-06T12:10:47,122+0000 [19796 1] com.newrelic INFO: New Relic Agent v6.4.2 has started
+2021-04-06T12:10:47,122+0000 [19796 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@27fa135a
+2021-04-06T12:10:47,122+0000 [19796 1] com.newrelic INFO: Premain startup complete in 12,482ms
+2021-04-06T12:10:47,231+0000 [19796 7] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-04-06T12:10:47,294+0000 [19796 7] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-04-06T12:19:17,446+0000 [10520 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\logs\newrelic_agent.log
+2021-04-06T12:19:17,446+0000 [10520 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_281
+2021-04-06T12:19:17,446+0000 [10520 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.281-b09
+2021-04-06T12:19:17,446+0000 [10520 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-04-06T12:19:17,446+0000 [10520 1] com.newrelic INFO: Agent Host: DESKTOP-LA5TLC0 IP: 172.26.16.1
+2021-04-06T12:19:17,446+0000 [10520 1] com.newrelic INFO: New Relic Agent v6.4.2 is initializing...
+2021-04-06T12:19:18,208+0000 [10520 8] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-04-06T12:19:25,952+0000 [10520 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-04-06T12:19:28,443+0000 [10520 1] com.newrelic INFO: Setting audit_mode to false
+2021-04-06T12:19:28,858+0000 [10520 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\.\newrelic.yml
+2021-04-06T12:19:28,890+0000 [10520 1] com.newrelic INFO: New Relic Agent v6.4.2 has started
+2021-04-06T12:19:28,890+0000 [10520 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@421faab1
+2021-04-06T12:19:28,890+0000 [10520 1] com.newrelic INFO: Premain startup complete in 12,529ms
+2021-04-06T12:19:30,282+0000 [10520 7] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-04-06T12:19:30,298+0000 [10520 7] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-04-06T12:20:58,981+0000 [16732 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\logs\newrelic_agent.log
+2021-04-06T12:20:58,982+0000 [16732 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_281
+2021-04-06T12:20:58,982+0000 [16732 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.281-b09
+2021-04-06T12:20:58,982+0000 [16732 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-04-06T12:20:58,983+0000 [16732 1] com.newrelic INFO: Agent Host: DESKTOP-LA5TLC0 IP: 172.26.16.1
+2021-04-06T12:20:58,983+0000 [16732 1] com.newrelic INFO: New Relic Agent v6.4.2 is initializing...
+2021-04-06T12:21:00,088+0000 [16732 8] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-04-06T12:21:08,100+0000 [16732 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-04-06T12:21:11,042+0000 [16732 1] com.newrelic INFO: Setting audit_mode to false
+2021-04-06T12:21:11,586+0000 [16732 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\.\newrelic.yml
+2021-04-06T12:21:11,630+0000 [16732 1] com.newrelic INFO: New Relic Agent v6.4.2 has started
+2021-04-06T12:21:11,630+0000 [16732 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@421faab1
+2021-04-06T12:21:11,630+0000 [16732 1] com.newrelic INFO: Premain startup complete in 13,730ms
+2021-04-06T12:21:13,754+0000 [16732 7] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-04-06T12:21:13,770+0000 [16732 7] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-04-06T12:44:30,318+0000 [20320 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\logs\newrelic_agent.log
+2021-04-06T12:44:30,318+0000 [20320 1] com.newrelic INFO: JRE vendor AdoptOpenJDK version 15.0.2
+2021-04-06T12:44:30,318+0000 [20320 1] com.newrelic INFO: JVM vendor AdoptOpenJDK OpenJDK 64-Bit Server VM version 15.0.2+7
+2021-04-06T12:44:30,319+0000 [20320 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-04-06T12:44:30,319+0000 [20320 1] com.newrelic INFO: Agent Host: DESKTOP-LA5TLC0 IP: 172.26.16.1
+2021-04-06T12:44:30,319+0000 [20320 1] com.newrelic INFO: New Relic Agent v6.4.2 is initializing...
+2021-04-06T12:44:31,092+0000 [20320 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-04-06T12:44:37,265+0000 [20320 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-04-06T12:44:37,745+0000 [20320 1] com.newrelic INFO: Setting audit_mode to false
+2021-04-06T12:44:37,910+0000 [20320 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\.\newrelic.yml
+2021-04-06T12:44:37,920+0000 [20320 1] com.newrelic INFO: New Relic Agent v6.4.2 has started
+2021-04-06T12:44:37,920+0000 [20320 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@5b1d2887
+2021-04-06T12:44:37,920+0000 [20320 1] com.newrelic INFO: Premain startup complete in 8,396ms
+2021-04-06T12:44:46,657+0000 [20320 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.43
+2021-04-06T12:44:57,964+0000 [20320 37] com.newrelic INFO: Host name is DESKTOP-LA5TLC0, display host DESKTOP-LA5TLC0 for application pgcrud
+2021-04-06T12:44:59,764+0000 [20320 37] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+2021-04-06T12:45:01,206+0000 [20320 37] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-04-06T12:45:01,206+0000 [20320 37] com.newrelic INFO: Agent run id: BQsbT8buIkD9AC_CJzKAX2FgbFhEAAIBAAAnIQEAAE9gAgQygF9fAwAFNi40LjIAD0RFU0tUT1AtTEE1VExDMAAGcGdjcnVk
+2021-04-06T12:45:01,206+0000 [20320 37] com.newrelic INFO: Agent 20320@DESKTOP-LA5TLC0/pgcrud connected to collector.newrelic.com:443
+2021-04-06T12:45:01,207+0000 [20320 37] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3129895/applications/847273823
+2021-04-06T12:45:01,210+0000 [20320 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-04-06T12:45:01,214+0000 [20320 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-04-06T12:45:02,075+0000 [20320 37] com.newrelic INFO: Real user monitoring is enabled for application pgcrud. Auto instrumentation is enabled.
+2021-04-06T13:39:52,505+0000 [20320 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-04-06T13:39:52,566+0000 [20320 41] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@5031f390 tried to finish but ServiceManager not started
+2021-04-06T13:39:53,538+0000 [20320 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2021-04-06T13:47:57,581+0000 [19612 1] com.newrelic INFO: Writing to New Relic log file: C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\logs\newrelic_agent.log
+2021-04-06T13:47:57,581+0000 [19612 1] com.newrelic INFO: JRE vendor AdoptOpenJDK version 15.0.2
+2021-04-06T13:47:57,581+0000 [19612 1] com.newrelic INFO: JVM vendor AdoptOpenJDK OpenJDK 64-Bit Server VM version 15.0.2+7
+2021-04-06T13:47:57,581+0000 [19612 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2021-04-06T13:47:57,581+0000 [19612 1] com.newrelic INFO: Agent Host: DESKTOP-LA5TLC0 IP: 172.26.16.1
+2021-04-06T13:47:57,581+0000 [19612 1] com.newrelic INFO: New Relic Agent v6.4.2 is initializing...
+2021-04-06T13:47:58,421+0000 [19612 14] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2021-04-06T13:48:04,541+0000 [19612 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2021-04-06T13:48:04,997+0000 [19612 1] com.newrelic INFO: Setting audit_mode to false
+2021-04-06T13:48:05,150+0000 [19612 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\Users\TURNTABL\Documents\TLC\Java\labs\CrudRestPGExample\newrelic\.\newrelic.yml
+2021-04-06T13:48:05,150+0000 [19612 1] com.newrelic INFO: New Relic Agent v6.4.2 has started
+2021-04-06T13:48:05,150+0000 [19612 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@5b1d2887
+2021-04-06T13:48:05,150+0000 [19612 1] com.newrelic INFO: Premain startup complete in 8,337ms
+2021-04-06T13:48:13,164+0000 [19612 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.43
+2021-04-06T13:48:25,222+0000 [19612 37] com.newrelic INFO: Host name is DESKTOP-LA5TLC0, display host DESKTOP-LA5TLC0 for application pgcrud
+2021-04-06T13:48:27,089+0000 [19612 37] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+2021-04-06T13:48:28,747+0000 [19612 37] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-04-06T13:48:28,747+0000 [19612 37] com.newrelic INFO: Agent run id: BSKfg3OS4wOOAC_CJzKAX2FgbGcIAAIBAAAnIQEAAEycAgQygF9fAwAFNi40LjIAD0RFU0tUT1AtTEE1VExDMAAGcGdjcnVk
+2021-04-06T13:48:28,747+0000 [19612 37] com.newrelic INFO: Agent 19612@DESKTOP-LA5TLC0/pgcrud connected to collector.newrelic.com:443
+2021-04-06T13:48:28,747+0000 [19612 37] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3129895/applications/847273823
+2021-04-06T13:48:28,747+0000 [19612 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-04-06T13:48:28,747+0000 [19612 37] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-04-06T13:48:29,703+0000 [19612 37] com.newrelic INFO: Real user monitoring is enabled for application pgcrud. Auto instrumentation is enabled.
+2021-04-06T13:52:59,901+0000 [19612 63] com.newrelic INFO: Remote metric_data call failed : com.newrelic.agent.ForceRestartException: .
+2021-04-06T13:52:59,901+0000 [19612 63] com.newrelic WARN: Received a ForceRestartException: com.newrelic.agent.ForceRestartException: . The agent will attempt to reconnect for data reporting. If this message continues, please contact support@newrelic.com.
+2021-04-06T13:53:00,737+0000 [19612 63] com.newrelic INFO: Host name is DESKTOP-LA5TLC0, display host DESKTOP-LA5TLC0 for application pgcrud
+2021-04-06T13:53:01,892+0000 [19612 63] com.newrelic INFO: Collector redirection to collector-006.newrelic.com:443
+2021-04-06T13:53:02,954+0000 [19612 63] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2021-04-06T13:53:02,954+0000 [19612 63] com.newrelic INFO: Agent run id: BZj6D7KccoLUAC_CJzKAX2FgbGg0AAIBAAAnIQEAAEycAgQygF9fAwAFNi40LjIAD0RFU0tUT1AtTEE1VExDMAAGcGdjcnVk
+2021-04-06T13:53:02,954+0000 [19612 63] com.newrelic INFO: Agent 19612@DESKTOP-LA5TLC0/pgcrud connected to collector.newrelic.com:443
+2021-04-06T13:53:02,964+0000 [19612 63] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3129895/applications/847273823
+2021-04-06T13:53:02,964+0000 [19612 63] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-04-06T13:53:02,966+0000 [19612 63] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2021-04-06T13:53:02,981+0000 [19612 63] com.newrelic INFO: Real user monitoring is enabled for application pgcrud. Auto instrumentation is enabled.
+2021-04-06T17:02:06,292+0000 [19612 13] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2021-04-06T17:02:06,426+0000 [19612 41] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@2c83dffe tried to finish but ServiceManager not started
+2021-04-06T17:02:06,930+0000 [19612 13] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
